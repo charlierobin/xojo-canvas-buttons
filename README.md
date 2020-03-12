@@ -16,7 +16,6 @@ Also adds a few custom events to assist with control painting. The original nati
 
 All this is in `CanvasButton` base class. The simple caption button in the test window is subclassed from that, showing how to use it as a simple jumping off point for more complicated buttons.
 
-![Screenshot of normal states](/screenshots/normal.jpg)
+![Screenshot of states](/screenshots/image.jpg)
 
-![Screenshot when rolled over](/screenshots/rolled_over.jpg)
 

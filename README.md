@@ -29,3 +29,5 @@ There's now an excellent series of three blog posts on the Xojo website which go
 [How To Create a Custom Button Control in Xojo – Part 3: Make Your Controls Inspector-Friendly](https://blog.xojo.com/2025/05/28/how-to-create-a-custom-button-control-in-xojo-part-3-make-your-controls-inspector-friendly/)
 
 Highly recommended!
+
+(And also the [Github repository](https://github.com/xolabsro/CanvasButton) from where you can get the source files for the above blogposts.)

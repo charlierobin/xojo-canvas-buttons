@@ -18,4 +18,14 @@ All this is in the `CanvasButton` base class. The simple caption button in the t
 
 ![Screenshot of states](/screenshots/image.jpg)
 
+# Notes as of 9th June 2025
 
+There's now an excellent series of three blog posts on the Xojo website which go into a lot of great detail about creating a custom button control in Xojo using the canvas control:
+
+[How To Create a Custom Button Control in Xojo](https://blog.xojo.com/2025/05/02/how-to-create-a-custom-button-control-in-xojo/)
+
+[How To Create a Custom Button Control in Xojo – Part 2](https://blog.xojo.com/2025/05/14/how-to-create-a-custom-button-control-in-xojo-part-2/)
+
+[How To Create a Custom Button Control in Xojo – Part 3: Make Your Controls Inspector-Friendly](https://blog.xojo.com/2025/05/28/how-to-create-a-custom-button-control-in-xojo-part-3-make-your-controls-inspector-friendly/)
+
+Highly recommended!
